@@ -84,3 +84,4 @@ if st.button("Calculate Risk"):
         st.warning("⚠ The borrower have a high-risk credit profile. Consider improving credit habits.")
     else:
         st.info("🌟 The borrower have a low-risk profile. Loan approval is likely.")
+
